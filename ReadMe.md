@@ -16,3 +16,4 @@ I'm currently studing in Global acadamy of technology<br>I have done my deploma 
 [![](https://visitcount.itsvg.in/api?id=Gowthamhegde&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/Gowthamhegde/Gowthamhegde/blob/output/github-snake-dark.svg)
