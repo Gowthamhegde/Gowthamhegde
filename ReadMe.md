@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studing in Global acadamy of technology<br>I have done my deploma in computer science in governemt institution<br>I have knowledge about python,html,css,javascript,c,sql etc
+I'm currently studing in Global acadamy of technology<br>I have done my deploma in computer science in governemt institution
 
 
 ## 🌐 Socials:
