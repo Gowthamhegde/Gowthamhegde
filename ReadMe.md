@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently studing in Global acadamy of technology<br>I have done my deploma in computer science in governemt institution
+a passionate engineer who loves building intelligent, scalable and secure systems.
+I work across Cloud (AWS), DevOps, Machine Learning, Cybersecurity, and Full-Stack Development—turning ideas into production-ready solutions.
 
 
 ## 🌐 Socials:
