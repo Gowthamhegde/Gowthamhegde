@@ -17,9 +17,11 @@
 
 ---
 
-## 📊 GitHub Snapshot
+## 📊 Live GitHub Activity
 
 <div align="center">
+
+<sub>These widgets update automatically from your GitHub contribution data, so the graphs change as you commit, review, and contribute.</sub>
 
 | Focus | Details |
 |:---:|:---|
@@ -123,13 +125,16 @@
 <div align="center">
 
 ### 🔥 Contribution Streak
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Gowthamhegde&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Gowthamhegde&theme=dark&hide_border=true)
 
-### 📈 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gowthamhegde&theme=dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true)
+### 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gowthamhegde&theme=react-dark)
 
-### 🎯 Language Proficiency
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowthamhegde&theme=dark&hide_border=true&layout=compact&card_width=320)
+### 🧾 Profile Summary
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gowthamhegde&theme=github_dark)
+
+### 📅 Contribution History
+![Contribution Graph](https://github.com/Gowthamhegde/Gowthamhegde/blob/output/github-snake-dark.svg)
 
 </div>
 
@@ -262,13 +267,11 @@ I'm always excited to collaborate on:
 
 ### 📊 Profile Analytics
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Gowthamhegde&icon=5&color=0)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gowthamhegde&theme=github_dark)
 
----
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gowthamhegde&theme=github_dark)
 
-### 🐍 Contribution History
-
-![Contribution Graph](https://github.com/Gowthamhegde/Gowthamhegde/blob/output/github-snake-dark.svg)
+<sub>These analytics are driven by GitHub data and update as your commits and contributions change.</sub>
 
 ---
 
