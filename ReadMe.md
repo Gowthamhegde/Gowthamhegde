@@ -1,269 +1,283 @@
 <div align="center">
 
-![Welcome Banner](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+My+GitHub!;Full+Stack+Engineer;Cloud+%26+AI+Innovator)
+# ✨ Gowtham Hegde
+
+![Welcome Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Engineer;Cloud+%26+AI+Innovator;Cybersecurity+Expert;Transforming+Ideas+Into+Reality)
+
+<br/>
+
+**Building Intelligent Systems • Cloud Architecture • AI/ML Innovation**
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gowthamhegde)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gowtham-hegde)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowthamhegde606@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://gowthamhegde.com)
+
+---
+
+## 📊 GitHub Snapshot
+
+<div align="center">
+
+| Focus | Details |
+|:---:|:---|
+| 🚀 **Currently building** | Cloud-native systems, AI-enabled tooling, and secure full-stack products |
+| 🧠 **Deepening expertise** | Scalable architecture, applied ML, and production observability |
+| 🛠️ **Preferred workflow** | Ship small, validate early, and harden what matters |
+| 🤝 **Open to** | Collaborations in cloud, AI, security, and platform engineering |
+
+</div>
+
+<div align="center">
+
+<sub>My GitHub profile is best understood through the work itself: clean systems, practical automation, and a bias toward shipping.</sub>
+
+</div>
+
+---
+<br clear="right">
+
+---
+
+## 💡 Core Expertise
+
+<div align="center">
+
+| **Domain** | **Technologies** |
+|:---:|:---|
+| ☁️ **Cloud & DevOps** | AWS, GCP, Azure, Kubernetes, Docker, Terraform, CI/CD |
+| 🤖 **AI/ML** | TensorFlow, PyTorch, Computer Vision, Deep Learning, NLP |
+| 🔐 **Security** | System Architecture, Encryption, Threat Modeling, Compliance |
+| 💾 **Backend** | Node.js, Python, Java, FastAPI, Django, Express.js |
+| 🎨 **Frontend** | React, Next.js, Vue.js, TypeScript, Tailwind CSS |
+| 📊 **Data** | PostgreSQL, MongoDB, Redis, DynamoDB, Data Analytics |
 
 </div>
 
 ---
 
-## 💫 About Me
-
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/SWoRKslHVtqgMwv890/giphy.gif">
-
-I'm a **passionate full-stack engineer** on a mission to build intelligent, scalable, and secure systems that drive real-world impact. With expertise spanning multiple domains, I transform complex problems into elegant, production-grade solutions.
-
-### 🎯 Core Competencies
-
-- **☁️ Cloud Architecture & DevOps** — AWS, Kubernetes, Docker, Infrastructure as Code
-- **🤖 Machine Learning & AI** — Deep Learning, Computer Vision, Data Science, Analytics
-- **🔐 Cybersecurity** — Secure system design, encryption, threat modeling, compliance
-- **💻 Full-Stack Development** — Web & Backend services, scalable APIs, modern frontend frameworks
-
-> *"Code is poetry, but it must solve real problems."*
-
-<br clear="right">
-
----
-
-## 🌐 Connect With Me
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=1f1f1f)](https://instagram.com/Gowtham.hegde_) 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f1f1f)](mailto:gowthamhegde606@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f1f1f)](https://linkedin.com/in/gowtham-hegde)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1f1f1f)](https://gowthamhegde.com)
+### 📝 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-</div> 
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
+### ⚙️ Backend & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-## 💻 Tech Stack
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=dynamodb&logoColor=white)
 
-<details open>
-<summary><h3>🔤 Languages</h3></summary>
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=github-actions&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+### 🤖 AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-</details>
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-<details open>
-<summary><h3>🎨 Frontend & Frameworks</h3></summary>
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vue.js&logoColor=%234FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
-
-</details>
-
-<details open>
-<summary><h3>⚙️ Backend & Frameworks</h3></summary>
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-</details>
-
-<details open>
-<summary><h3>🗄️ Databases & Storage</h3></summary>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=dynamodb&logoColor=white)
-
-</details>
-
-<details open>
-<summary><h3>☁️ Cloud & DevOps</h3></summary>
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=flat-square&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
-
-</details>
-
-<details open>
-<summary><h3>🤖 AI/ML & Data Science</h3></summary>
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
-
-</details>
-
-<details open>
-<summary><h3>🎨 Design & Tools</h3></summary>
-
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470DB7?style=flat-square&logo=Adobe%20XD&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
-
-</details>
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+---
+
+## 📊 GitHub Activity & Stats
 
 <div align="center">
 
-### 🔥 Contribution Streak & Activity
-
+### 🔥 Contribution Streak
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Gowthamhegde&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF)
 
-### 📈 Statistics
+### 📈 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gowthamhegde&theme=dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gowthamhegde&theme=dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false)
-
-### 🎯 Most Used Languages
-
+### 🎯 Language Proficiency
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowthamhegde&theme=dark&hide_border=true&layout=compact&card_width=320)
 
 </div>
 
 ---
 
----
+## 🏆 Highlights & Achievements
 
-## 🏆 Notable Achievements
-
-<table>
+<table align="center">
   <tr>
-    <td align="center">
-      <h4>🎯 Full-Stack Mastery</h4>
-      <p>Expertise across cloud, ML, and cybersecurity</p>
+    <td width="25%" align="center">
+      <h3>🎯 Full-Stack Expert</h3>
+      <p>Cloud, ML, Security</p>
     </td>
-    <td align="center">
-      <h4>🚀 Production Grade</h4>
-      <p>Deployed scalable systems on AWS</p>
+    <td width="25%" align="center">
+      <h3>🚀 Production Systems</h3>
+      <p>Scaled Infrastructure</p>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h4>🔒 Security First</h4>
-      <p>Implemented secure architectures</p>
+    <td width="25%" align="center">
+      <h3>🔐 Security First</h3>
+      <p>Secure Architectures</p>
     </td>
-    <td align="center">
-      <h4>📊 Data Driven</h4>
-      <p>ML & analytics solutions</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h4>🎨 Design Savvy</h4>
-      <p>Creative problem solver</p>
-    </td>
-    <td align="center">
-      <h4>⚡ High Performance</h4>
-      <p>Optimized code & systems</p>
+    <td width="25%" align="center">
+      <h3>🤖 AI Pioneer</h3>
+      <p>ML & Deep Learning</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Featured Projects & Portfolio
 
-Coming soon! Check out my repositories for hands-on examples of my work.
+<div align="center">
+
+> **Explore my repositories to see real-world implementations of:**
+> - 🏗️ Scalable cloud architectures on AWS
+> - 🤖 Machine learning and AI solutions
+> - 🔐 Security-focused system design
+> - 📱 Modern full-stack applications
+> - 📊 Data analytics pipelines
+
+[👉 View All Projects →](https://github.com/Gowthamhegde?tab=repositories)
+
+</div>
 
 ---
 
-## 💬 Let's Collaborate!
+## 💼 What I Specialize In
+
+<div align="center">
+
+### ☁️ Cloud Architecture & DevOps
+Designing resilient, scalable systems with AWS, GCP, Kubernetes, and infrastructure-as-code.
+
+### 🤖 Machine Learning & AI
+Building intelligent systems with deep learning, computer vision, and data-driven solutions.
+
+### 🔐 Cybersecurity & System Design
+Creating secure architectures with encryption, threat modeling, and compliance-first approach.
+
+### 💻 Full-Stack Development
+Crafting end-to-end solutions from backend APIs to responsive, modern frontends.
+
+</div>
+
+---
+
+## 🎓 Continuous Learning
+
+<div align="center">
+
+```
+🌱 Always Growing
+├── 📚 Advanced Cloud Architectures & Kubernetes
+├── 🔬 Cutting-edge AI/ML Frameworks
+├── 📖 System Design & Scalability
+├── 🛡️ Cybersecurity Best Practices
+└── 🚀 Emerging Technologies
+```
+
+</div>
+
+---
+
+## 📬 Let's Connect & Collaborate!
+
+<div align="center">
+
+I'm always excited to collaborate on:
+- 🚀 **Innovative Projects** that push technological boundaries
+- 💼 **Professional Opportunities** in cloud, AI, or security
+- 🤝 **Open Source Contributions** that give back to the community
+- 📖 **Knowledge Exchange** with talented engineers
+
+---
+
+### 📧 Quick Links
+
+<a href="mailto:gowthamhegde606@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>&nbsp;
+<a href="https://linkedin.com/in/gowtham-hegde">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="https://github.com/Gowthamhegde">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>&nbsp;
+<a href="https://gowthamhegde.com">
+  <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+</a>
+
+---
 
 <div align="left">
 
-I'm passionate about:
-
-- 💡 **Innovation** → Building next-gen solutions
-- 🔐 **Security** → Privacy-first architecture  
-- 🌐 **Open Source** → Contributing to community projects
-- 📚 **Knowledge Sharing** → Mentoring & technical writing
-- 🤝 **Partnerships** → Working on impactful projects
+### 💡 Open To:
+- Freelance Projects
+- Full-time Opportunities
+- Consulting & Technical Advisory
+- Open Source Contributions
+- Speaking Engagements
 
 </div>
-
-<div align="center">
-
-### 📞 Get In Touch
-
-<a href="mailto:gowthamhegde606@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/gowtham-hegde">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/Gowtham.hegde_">
-  <img alt="Instagram" src="https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 
 </div>
 
 ---
 
-## 🎓 Always Learning
-
-```
-Technology Stack: 🔄 Continuously Evolving
-├── 🌟 Current Focus: Advanced ML & Cloud Architecture
-├── 📖 Reading: Best practices in system design
-├── 🔬 Experimenting: New frameworks & tools
-└── 🎯 Goal: Building world-class solutions
-```
-
----
-
 <div align="center">
 
-### 👀 Profile Views
+### 📊 Profile Analytics
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Gowthamhegde&icon=5&color=0)](https://visitcount.itsvg.in)
-
-### 🐍 Contribution Graph
-
-<a href="https://github.com/Gowthamhegde">
-  <img src="https://github.com/Gowthamhegde/Gowthamhegde/blob/output/github-snake-dark.svg" alt="Snake contribution graph" width="100%">
-</a>
+![Profile Views](https://visitcount.itsvg.in/api?id=Gowthamhegde&icon=5&color=0)
 
 ---
 
-### ⭐ If You Find This Helpful
+### 🐍 Contribution History
 
-<p>
-  <strong>Please consider starring my repositories!</strong><br>
-  <em>It helps me stay motivated to create more amazing projects.</em>
-</p>
+![Contribution Graph](https://github.com/Gowthamhegde/Gowthamhegde/blob/output/github-snake-dark.svg)
 
-**Made with ❤️ by Gowtham Hegde**
+---
+
+### ⭐ Support
+
+> If you find my work valuable, please consider starring my repositories. It motivates me to create better projects!
+
+**Crafted with ❤️ by Gowtham Hegde**
+
+<sub>Last Updated: 2026 | Always Learning & Growing 🚀</sub>
 
 </div>
