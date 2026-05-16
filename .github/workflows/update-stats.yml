@@ -1,0 +1,165 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "30 18 * * *"  # runs daily at midnight IST (18:30 UTC)
+  workflow_dispatch:        # allows manual trigger from GitHub Actions tab
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch stats and update README
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          USERNAME: Gowthamhegde
+        run: |
+          python3 << 'EOF'
+          import requests, re, os
+          from datetime import datetime, timezone, timedelta
+
+          USERNAME = os.environ["USERNAME"]
+          TOKEN    = os.environ.get("GH_TOKEN", "")
+          HEADERS  = {"Authorization": f"token {TOKEN}", "Accept": "application/vnd.github.v3+json"} if TOKEN else {}
+
+          def gh(path):
+              r = requests.get(f"https://api.github.com{path}", headers=HEADERS)
+              r.raise_for_status()
+              return r.json()
+
+          # ── User profile ────────────────────────────────────────────────
+          user  = gh(f"/users/{USERNAME}")
+          repos = gh(f"/users/{USERNAME}/repos?per_page=100&sort=updated")
+
+          total_stars = sum(r.get("stargazers_count", 0) for r in repos)
+          total_forks = sum(r.get("forks_count", 0)      for r in repos)
+          total_issues = sum(r.get("open_issues_count", 0) for r in repos)
+
+          # ── Stats table ─────────────────────────────────────────────────
+          stats_md = (
+              "| 🗂️ Public Repos | ⭐ Total Stars | 🍴 Total Forks | 👥 Followers | 👤 Following | 📝 Gists |\n"
+              "|:-:|:-:|:-:|:-:|:-:|:-:|\n"
+              f"| **{user['public_repos']}** | **{total_stars}** | **{total_forks}** "
+              f"| **{user['followers']}** | **{user['following']}** | **{user['public_gists']}** |"
+          )
+
+          # ── Contribution count via GraphQL ───────────────────────────────
+          contributions_this_year = "N/A"
+          current_streak          = "N/A"
+          if TOKEN:
+              query = """
+              {
+                user(login: "%s") {
+                  contributionsCollection {
+                    totalCommitContributions
+                    totalIssueContributions
+                    totalPullRequestContributions
+                    contributionCalendar { totalContributions weeks { contributionDays { contributionCount date } } }
+                  }
+                }
+              }
+              """ % USERNAME
+              gql = requests.post(
+                  "https://api.github.com/graphql",
+                  json={"query": query},
+                  headers={"Authorization": f"bearer {TOKEN}"}
+              )
+              if gql.ok:
+                  data = gql.json().get("data", {}).get("user", {})
+                  cc   = data.get("contributionsCollection", {})
+                  contributions_this_year = cc.get("contributionCalendar", {}).get("totalContributions", "N/A")
+
+                  # calculate current streak
+                  all_days = []
+                  for week in cc.get("contributionCalendar", {}).get("weeks", []):
+                      all_days.extend(week["contributionDays"])
+                  all_days.sort(key=lambda d: d["date"], reverse=True)
+                  streak = 0
+                  for day in all_days:
+                      if day["contributionCount"] > 0:
+                          streak += 1
+                      else:
+                          break
+                  current_streak = f"{streak} days"
+
+          streak_md = (
+              "| 🔥 Current Streak | 📅 Contributions This Year | 📦 Total Repos |\n"
+              "|:-:|:-:|:-:|\n"
+              f"| **{current_streak}** | **{contributions_this_year} commits** | **{user['public_repos']} repos** |"
+          )
+
+          # ── Top languages ────────────────────────────────────────────────
+          lang_map = {}
+          for repo in repos:
+              lang = repo.get("language")
+              if lang:
+                  lang_map[lang] = lang_map.get(lang, 0) + 1
+          sorted_langs = sorted(lang_map.items(), key=lambda x: x[1], reverse=True)[:8]
+
+          lang_rows = "\n".join(f"| `{l}` | {c} repos |" for l, c in sorted_langs)
+          lang_md   = "| Language | Repos |\n|:--|:-:|\n" + lang_rows
+
+          # ── Top repos by stars ───────────────────────────────────────────
+          top_repos = sorted(repos, key=lambda r: r.get("stargazers_count", 0), reverse=True)[:5]
+          repo_rows = "\n".join(
+              f"| [{r['name']}]({r['html_url']}) | ⭐ {r['stargazers_count']} | 🍴 {r['forks_count']} | `{r.get('language') or 'N/A'}` |"
+              for r in top_repos
+          )
+          top_repos_md = "| Repo | Stars | Forks | Language |\n|:--|:-:|:-:|:-:|\n" + repo_rows
+
+          # ── Recently updated repos ───────────────────────────────────────
+          recent = sorted(repos, key=lambda r: r.get("updated_at", ""), reverse=True)[:5]
+          recent_rows = "\n".join(
+              f"| [{r['name']}]({r['html_url']}) | `{r['updated_at'][:10]}` | `{r.get('language') or 'N/A'}` |"
+              for r in recent
+          )
+          recent_md = "| Repo | Updated | Language |\n|:--|:-:|:-:|\n" + recent_rows
+
+          # ── Timestamp ────────────────────────────────────────────────────
+          ist = timezone(timedelta(hours=5, minutes=30))
+          now = datetime.now(ist).strftime("%d %b %Y, %I:%M %p IST")
+          last_updated_md = f'<sub>🕐 Last updated: {now}</sub>'
+
+          # ── Patch README ─────────────────────────────────────────────────
+          with open("README.md", "r", encoding="utf-8") as f:
+              readme = f.read()
+
+          def replace_block(content, tag, new_body):
+              pattern = rf"(<!-- {tag}:START -->).*?(<!-- {tag}:END -->)"
+              replacement = rf"\1\n{new_body}\n\2"
+              return re.sub(pattern, replacement, content, flags=re.DOTALL)
+
+          readme = replace_block(readme, "STATS",        stats_md)
+          readme = replace_block(readme, "STREAK",       streak_md)
+          readme = replace_block(readme, "LANGUAGES",    "### 🧬 Top Languages\n" + lang_md)
+          readme = replace_block(readme, "TOP_REPOS",    "### 📦 Top Repositories by Stars\n" + top_repos_md)
+          readme = replace_block(readme, "RECENT_REPOS", "### 🕐 Recently Updated\n" + recent_md)
+          readme = replace_block(readme, "LAST_UPDATED", last_updated_md)
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(readme)
+
+          print("✅ README.md updated successfully!")
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name  "github-actions[bot]"
+          git add README.md
+          git diff --staged --quiet || git commit -m "🤖 chore: auto-update GitHub stats [$(date +'%Y-%m-%d')]"
+          git push
