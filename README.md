@@ -238,11 +238,10 @@ GOWTHAM'S DEVOPS SKILL TREE                              [███████�
 ## 🐍 CONTRIBUTION SNAKE
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gowthamhegde/Gowthamhegde/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gowthamhegde/Gowthamhegde/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gowthamhegde/Gowthamhegde/output/github-contribution-grid-snake-dark.svg" width="98%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gowthamhegde/Gowthamhegde/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gowthamhegde/Gowthamhegde/output/github-snake.svg"/>
+  <img alt="GitHub snake animation" src="https://raw.githubusercontent.com/Gowthamhegde/Gowthamhegde/output/github-snake.svg"/>
 </picture>
-
 > ☝️ Add the snake workflow below to activate this animation!
 
 </div>
