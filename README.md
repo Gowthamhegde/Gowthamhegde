@@ -1,22 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:7B2FBE&height=200&section=header&text=Gowtham%20Hegde&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Platform%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,30:00D9FF,60:7B2FBE,100:FF6B35&height=300&section=header&text=GOWTHAM%20HEGDE&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=⚡%20INFRASTRUCTURE%20WHISPERER%20⚡&descAlignY=65&descSize=22&animation=twinkling&stroke=00D9FF&strokeWidth=2" width="100%"/>
+
+</div>
+
+<div align="center">
+
+```
+██████╗ ███████╗██╗   ██╗ ██████╗ ██████╗ ███████╗
+██╔══██╗██╔════╝██║   ██║██╔═══██╗██╔══██╗██╔════╝
+██║  ██║█████╗  ██║   ██║██║   ██║██████╔╝███████╗
+██║  ██║██╔══╝  ╚██╗ ██╔╝██║   ██║██╔═══╝ ╚════██║
+██████╔╝███████╗ ╚████╔╝ ╚██████╔╝██║     ███████║
+╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝ ╚═╝     ╚══════╝
+        E N G I N E E R  ·  I N D I A  🇮🇳
+```
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=600&color=00D9FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=🔥+Breaking+prod+in+staging+since+2020;☸️+kubectl+apply+-f+my-entire-career.yaml;🏗️+Terraform+destroy+%3F+Never+heard+of+her;📡+My+uptime+is+better+than+your+weekends;🐳+Ships+containers%2C+not+excuses;⚡+Zero+downtime+or+I+don't+sleep)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=45&lines=⚙️+Automating+Infrastructure+at+Scale;🐳+Kubernetes+%7C+Docker+%7C+Helm+%7C+ArgoCD;🔁+CI%2FCD+Pipelines+%7C+GitOps+%7C+IaC;📡+Observability+%7C+SRE+%7C+Zero-Downtime+Deploys;🔐+Security-First+Cloud+Architecture)](https://git.io/typing-svg)
+<div align="center">
 
-<br/>
-
-<a href="https://github.com/Gowthamhegde"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/gowtham-hegde"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:gowthamhegde606@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://gowthamhegde.com"><img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
+<a href="https://github.com/Gowthamhegde">
+  <img src="https://img.shields.io/badge/-%40Gowthamhegde-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+</a>
+<a href="https://linkedin.com/in/gowtham-hegde">
+  <img src="https://img.shields.io/badge/-gowtham--hegde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+</a>
+<a href="mailto:gowthamhegde606@gmail.com">
+  <img src="https://img.shields.io/badge/-gowthamhegde606-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+</a>
+<a href="https://gowthamhegde.com">
+  <img src="https://img.shields.io/badge/-gowthamhegde.com-FF6B35?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=FF6B35"/>
+</a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Gowthamhegde&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/Gowthamhegde?style=for-the-badge&color=7B2FBE&labelColor=0D1117&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=Gowthamhegde&style=for-the-badge&color=00D9FF&label=👁️+PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Gowthamhegde?style=for-the-badge&color=7B2FBE&labelColor=0D1117&label=🤝+FOLLOWERS)
+![GitHub stars](https://img.shields.io/github/stars/Gowthamhegde?style=for-the-badge&color=FF6B35&labelColor=0D1117&label=⭐+STARS)
 
 </div>
 
@@ -24,216 +53,197 @@
 
 <div align="center">
 
-## 🧑‍💻 About Me
+## 💀 `$ whoami` — The Terminal Version
+
+</div>
+
+```yaml
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   gowtham@prod-cluster:~$ kubectl get engineer gowtham -o yaml               ║
+║                                                                              ║
+║   apiVersion: human/v1                                                       ║
+║   kind: DevOpsEngineer                                                       ║
+║   metadata:                                                                  ║
+║     name: gowtham-hegde                                                      ║
+║     namespace: production                                                    ║
+║     labels:                                                                  ║
+║       tier: "senior"                                                         ║
+║       domain: "devops"                                                       ║
+║       vibe: "automate-or-die"                                                ║
+║       coffee-dependency: "critical"                                          ║
+║   spec:                                                                      ║
+║     role:      [DevOps, CloudArchitect, PlatformEngineer, SRE]               ║
+║     location:  Bengaluru, India 🇮🇳                                           ║
+║     timezone:  IST (UTC+5:30) — works in all timezones anyway                ║
+║     focus:     [InfraAutomation, GitOps, ZeroDowntime, SRE]                  ║
+║     currently: "Breaking things so you don't have to"                        ║
+║     mantra:    "Automate everything. If you did it twice, script it."        ║
+║     open_to:   [FullTime, Freelance, Consulting, OpenSource]                 ║
+║   status:                                                                    ║
+║     phase:     Running 🟢                                                    ║
+║     uptime:    99.99%                                                        ║
+║     restarts:  0 (unlike your microservices)                                 ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
+
+<div align="center">
+
+
+## ☁️ THE ARSENAL
 
 </div>
 
 <table align="center">
 <tr>
-<td>
+<td align="center" width="33%">
 
-```hcl
-# whoami.tf — Gowtham Hegde · 2026
+### 🌩️ Cloud
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark&perline=3"/>
 
-resource "engineer" "gowtham" {
-  role       = ["DevOps", "Cloud Architect", "Platform Engineer"]
-  location   = "India 🇮🇳"
-  focus      = ["Infrastructure Automation", "GitOps", "SRE"]
-  philosophy = "Everything as Code. Automate or Die."
-  open_to    = ["Full-time", "Freelance", "Consulting", "OSS"]
-}
-```
+`EKS` `ECS` `Lambda` `RDS`
+`S3` `VPC` `IAM` `GKE`
+`Cloud Run` `AKS` `Blob`
 
 </td>
-<td>
+<td align="center" width="33%">
 
-```sh
-$ kubectl describe engineer gowtham
+### ☸️ Containers & Orchestration
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,helm&theme=dark&perline=3"/>
 
-Name:       Gowtham Hegde
-Namespace:  production
-Labels:     tier=senior  domain=devops
+`ArgoCD` `Flux` `Kustomize`
+`HPA` `KEDA` `Istio`
+`Linkerd` `Cilium` `Calico`
 
-Status:     🟢 Available  |  Uptime: 99.99%
+</td>
+<td align="center" width="33%">
 
-Building:   Multi-cloud K8s & GitOps platforms
-Learning:   SRE · eBPF · Service Mesh
-Exploring:  Cilium · Crossplane · Backstage IDP
-Mantra:     Automate everything done twice
-```
+### 🏗️ Infrastructure as Code
+<img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark&perline=3"/>
+
+`Pulumi` `CloudFormation`
+`CDK` `Crossplane`
+`OPA` `Sentinel`
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+### 🔁 CI/CD & GitOps
+<img src="https://skillicons.dev/icons?i=github,gitlab,jenkins&theme=dark&perline=3"/>
+
+`GitHub Actions` `Tekton`
+`ArgoCD` `FluxCD`
+`Spinnaker` `Drone`
+
+</td>
+<td align="center" width="33%">
+
+### 📡 Observability
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark&perline=3"/>
+
+`Loki` `Tempo` `Jaeger`
+`OpenTelemetry` `Datadog`
+`VictoriaMetrics` `Thanos`
+
+</td>
+<td align="center" width="33%">
+
+### 🔐 Security
+<img src="https://skillicons.dev/icons?i=linux&theme=dark&perline=3"/>
+
+`Vault` `Falco` `Trivy`
+`SOPS` `OPA` `Kyverno`
+`RBAC` `Zero Trust` `SBOM`
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,go,bash&theme=dark&perline=3"/>
+
+`Python` `Go` `Bash`
+`TypeScript` `YAML`
+`HCL` `Jsonnet`
+
+</td>
+<td align="center" width="33%">
+
+### 🌐 Networking
+<img src="https://skillicons.dev/icons?i=nginx&theme=dark&perline=3"/>
+
+`Istio` `Cilium` `Traefik`
+`AWS ALB` `Nginx` `Envoy`
+`CoreDNS` `VPN` `BGP`
+
+</td>
+<td align="center" width="33%">
+
+### 💾 Data & Messaging
+<img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark&perline=3"/>
+
+`PostgreSQL` `Redis`
+`Kafka` `DynamoDB`
+`S3` `RDS` `ElastiCache`
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-![](https://img.shields.io/badge/🏗️_Building-Multi--cloud_K8s_Platforms-00D9FF?style=flat-square&labelColor=0D1117)
-![](https://img.shields.io/badge/📡_Learning-SRE_·_eBPF_·_Service_Mesh-7B2FBE?style=flat-square&labelColor=0D1117)
-![](https://img.shields.io/badge/🔭_Exploring-Cilium_·_Crossplane_·_OTel-FF6B35?style=flat-square&labelColor=0D1117)
-
-</div>
-
 ---
 
 <div align="center">
 
-## ☁️ Cloud & Infrastructure
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform&theme=dark&perline=6" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=linux,bash,ansible,prometheus,grafana,nginx&theme=dark&perline=6" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=github,gitlab,jenkins,python,go,postgres&theme=dark&perline=6" />
-
-<br/><br/>
-
-| **Domain** | **Tools & Technologies** |
-|:---:|:---|
-| ☁️ **Cloud Platforms** | AWS (EKS, ECS, Lambda, RDS, S3, VPC, IAM) · GCP · Azure |
-| 🐳 **Containers & Orchestration** | Kubernetes · Docker · Helm · Kustomize · ArgoCD · Flux |
-| 🏗️ **Infrastructure as Code** | Terraform · Pulumi · Ansible · CloudFormation · CDK |
-| 🔁 **CI/CD & GitOps** | GitHub Actions · GitLab CI · Jenkins · ArgoCD · Tekton |
-| 📡 **Observability** | Prometheus · Grafana · Loki · Jaeger · OpenTelemetry · Datadog |
-| 🔐 **Security & Compliance** | Vault · OPA · Falco · Trivy · SOPS · Zero Trust · RBAC |
-| 🌐 **Networking** | Istio · Cilium · Nginx · Traefik · AWS ALB · VPN · DNS |
-| 💾 **Data & Messaging** | PostgreSQL · Redis · Kafka · DynamoDB · S3 · RDS |
+## 🎮 SKILL TREE — UNLOCKED
 
 </div>
-
----
-
-<div align="center">
-
-## 🛠️ Tech Stack
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-
-### 🔁 CI/CD & GitOps
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### 📡 Observability & Monitoring
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-
-### 🔐 Security
-![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-
-### 🌐 Networking & Service Mesh
-![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
-
-### 📝 Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<br/>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Gowthamhegde&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff&rank_icon=percentile&include_all_commits=true&count_private=true" width="100%"/>
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=Gowthamhegde&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=7B2FBE&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=ffffff&dates=888888" width="100%"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gowthamhegde&theme=tokyonight" width="95%"/>
-
-<br/>
-
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gowthamhegde&theme=tokyonight"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gowthamhegde&theme=tokyonight"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gowthamhegde&theme=tokyonight"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gowthamhegde&theme=tokyonight&utcOffset=5.5"/></td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## ⚙️ What I Operate
-
-</div>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🐳 Kubernetes & Containers</h3>
-      <p align="center">Production-grade K8s clusters on EKS/GKE with Helm, Kustomize, ArgoCD GitOps, HPA/KEDA autoscaling, and multi-tenant namespace isolation.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏗️ Infrastructure as Code</h3>
-      <p align="center">Full cloud environments provisioned via Terraform modules and Ansible playbooks. Immutable infra, state management, drift detection, and policy-as-code with OPA.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔁 CI/CD Pipelines</h3>
-      <p align="center">End-to-end pipelines with build, test, SAST/DAST, container scanning, and zero-downtime blue/green & canary deployments via GitHub Actions and ArgoCD.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📡 Observability Stack</h3>
-      <p align="center">Full-stack observability with Prometheus + Grafana dashboards, distributed tracing via Jaeger/Tempo, structured logging with Loki, and SLO/SLA alerting.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-
-## 🌱 2026 Roadmap
 
 ```
-╔═══════════════════════════════════════════════════════╗
-║              🧭  DEVOPS LEARNING ROADMAP 2026         ║
-╠═══════════════════════════════════════════════════════╣
-║  🔬  eBPF-based networking & observability (Cilium)   ║
-║  🏛️  Platform Engineering & Internal Developer Portal ║
-║  📦  Crossplane — Kubernetes-native IaC               ║
-║  🔐  Supply chain security (SLSA, Sigstore, SBOM)     ║
-║  📊  OpenTelemetry & unified observability pipelines  ║
-╚═══════════════════════════════════════════════════════╝
+GOWTHAM'S DEVOPS SKILL TREE                              [████████████] LVL 99
+════════════════════════════════════════════════════════════════════════════════
+
+  ☸️  Kubernetes          ████████████████████  100%   ✅ MASTERED
+  🏗️  Terraform           ████████████████████  100%   ✅ MASTERED
+  🐳  Docker              ████████████████████  100%   ✅ MASTERED
+  🔁  GitHub Actions      ████████████████████  100%   ✅ MASTERED
+  📡  Prometheus/Grafana  ███████████████████░   95%   ✅ EXPERT
+  🌩️  AWS                 ███████████████████░   95%   ✅ EXPERT
+  🔐  Vault / Secrets     ██████████████████░░   90%   ✅ EXPERT
+  🐍  Python              ██████████████████░░   90%   ✅ EXPERT
+  🔵  ArgoCD / GitOps     ██████████████████░░   90%   ✅ EXPERT
+  🌐  Istio / ServiceMesh ████████████████░░░░   80%   🔥 ADVANCED
+  🐹  Go (Golang)         ███████████████░░░░░   75%   🔥 ADVANCED
+  🔬  eBPF / Cilium       █████████████░░░░░░░   65%   📈 LEVELING UP
+  📦  Crossplane          ████████████░░░░░░░░   60%   📈 LEVELING UP
+  🏛️  Platform Eng (IDP)  ███████████░░░░░░░░░   55%   📈 IN PROGRESS
+
+════════════════════════════════════════════════════════════════════════════════
 ```
+
+---
+
+<div align="center">
+
+
+
+## 🐍 CONTRIBUTION SNAKE
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gowthamhegde/Gowthamhegde/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gowthamhegde/Gowthamhegde/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gowthamhegde/Gowthamhegde/output/github-contribution-grid-snake-dark.svg" width="98%"/>
+</picture>
+
+> ☝️ Add the snake workflow below to activate this animation!
 
 </div>
 
@@ -241,34 +251,83 @@ Mantra:     Automate everything done twice
 
 <div align="center">
 
-## 🤝 Let's Connect
+
+
+<div align="center">
+
+## 📡 CONNECT TO THE NETWORK
 
 <br/>
 
-> *"Automate everything. Observe everything. Trust nothing by default."*
+> 💬 *"Automate everything. Observe everything. Trust nothing by default."*
+>
+> 🔥 *"If your infrastructure isn't code, it's technical debt."*
+>
+> ⚡ *"The best incident is the one that never happens."*
 
 <br/>
 
 <a href="mailto:gowthamhegde606@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>&nbsp;
+  <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/gowtham-hegde">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;
+  <img src="https://img.shields.io/badge/🤝_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;&nbsp;
 <a href="https://gowthamhegde.com">
-  <img src="https://img.shields.io/badge/Visit%20Portfolio-FF6B35?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B35?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**Open to:** `DevOps Roles` · `Platform Engineering` · `SRE` · `Consulting` · `Open Source`
+**Open to:**
+
+![DevOps](https://img.shields.io/badge/DevOps%20Roles-00D9FF?style=flat-square&logoColor=white)
+![Platform Engineering](https://img.shields.io/badge/Platform%20Engineering-7B2FBE?style=flat-square&logoColor=white)
+![SRE](https://img.shields.io/badge/SRE-FF6B35?style=flat-square&logoColor=white)
+![Consulting](https://img.shields.io/badge/Consulting-00D9FF?style=flat-square&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-3FB950?style=flat-square&logoColor=white)
+![Remote](https://img.shields.io/badge/Remote%20%F0%9F%8C%8D-FF6B35?style=flat-square&logoColor=white)
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:00D9FF,100:0D1117&height=120&section=footer&text=Infrastructure+as+Code.+Everything+as+Code.&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,30:7B2FBE,70:00D9FF,100:0D1117&height=140&section=footer&text=Infrastructure+as+Code.+Everything+as+Code.&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
 
 <div align="center">
-<sub>Crafted with ❤️ by Gowtham Hegde · Updated 2026 · Always shipping 🚀</sub>
+<sub>⚡ Crafted with caffeine & kubectl by <strong>Gowtham Hegde</strong> · Always shipping 🚀 · Last commit: today</sub>
 </div>
+
+---
+
+<!--
+════════════════════════════════════════════════════════
+  SNAKE ANIMATION SETUP (one-time, takes 2 minutes)
+════════════════════════════════════════════════════════
+
+Create this file: .github/workflows/snake.yml
+
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+════════════════════════════════════════════════════════
+-->
